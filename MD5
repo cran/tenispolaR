@@ -1,0 +1,8 @@
+803b5c178ac0593c5186736f9918c21c *DESCRIPTION
+87d5403369502da2135ddec7f2241bcb *NAMESPACE
+b2490ad1e543c679867e4e9c66c99ae3 *R/encryption.R
+67e8845cb9326bc7109b104340bd30f4 *README.md
+a711464f6bdab8d011d7e95b2f1cfc3f *man/encryption.Rd
+3505d27dd67acbcad963c2e38350a17d *man/figures/logo.png
+92be0f6f9ec92e07a81028c6e46136a8 *tests/testthat.R
+4adf3b897026a8743a09c9d8698876d4 *tests/testthat/test-encryption.R
